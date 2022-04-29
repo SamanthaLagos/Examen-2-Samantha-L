@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea57c5f0-5413-4390-b4f9-e5a8f91df4b6": {
+      "ProjectGuid": "ea57c5f0-5413-4390-b4f9-e5a8f91df4b6",
+      "DisplayName": "Examen2_SamanthaLagos",
+      "ColorIndex": 0
+    },
+    "b9914181-1dfa-4e58-ba74-22ebe9188a64": {
+      "ProjectGuid": "b9914181-1dfa-4e58-ba74-22ebe9188a64",
+      "DisplayName": "ClasesUsuario",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,112 @@
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Examen2_SamanthaLopez.exe.config
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Examen2_SamanthaLopez.exe
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Examen2_SamanthaLopez.pdb
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\ClasesUsuario.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\EnvDTE.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\MySql.Data.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\stdole.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Google.Protobuf.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\ZstdNet.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\System.Memory.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\System.Buffers.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\ClasesUsuario.pdb
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\ClasesUsuario.dll.config
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\MySql.Data.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Google.Protobuf.pdb
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Google.Protobuf.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\System.Memory.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\System.Buffers.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\obj\Debug\Examen2_SamanthaLopez.csproj.AssemblyReference.cache
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\obj\Debug\Examen2_SamanthaLopez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\obj\Debug\Examen2_SamanthaLopez.exe.config
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\obj\Debug\Examen2_SamanthaLopez.FrmPedidos.resources
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\obj\Debug\Examen2_SamanthaLopez.FrmProducto.resources
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\obj\Debug\Examen2_SamanthaLopez.Frm_Menu.resources
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\obj\Debug\Examen2_SamanthaLopez.Login.resources
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\obj\Debug\Examen2_SamanthaLopez.Properties.Resources.resources
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\obj\Debug\Examen2_SamanthaLopez.csproj.GenerateResource.cache
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\obj\Debug\Examen2_SamanthaLopez.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\obj\Debug\Examen2_SamanthaLopez.csproj.CopyComplete
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\obj\Debug\Examen2_SamanthaLopez.exe
+C:\Users\Bryan Tinoco\OneDrive\Documentos\Ejercicios Visual\Examen2_SamanthaLopez\obj\Debug\Examen2_SamanthaLopez.pdb
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Examen2_SamanthaLopez.exe.config
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Examen2_SamanthaLopez.exe
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Examen2_SamanthaLopez.pdb
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\ClasesUsuario.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\ZstdNet.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\ClasesUsuario.pdb
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\ClasesUsuario.dll.config
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Google.Protobuf.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\obj\Debug\Examen2_SamanthaLagos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\obj\Debug\Examen2_SamanthaLagos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\obj\Debug\Examen2_SamanthaLopez.exe.config
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\obj\Debug\Examen2_SamanthaLopez.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\obj\Debug\Examen2_SamanthaLagos.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\obj\Debug\Examen2_SamanthaLagos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\obj\Debug\Examen2_SamanthaLagos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\obj\Debug\Examen2_SamanthaLopez.exe
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\obj\Debug\Examen2_SamanthaLopez.pdb
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\obj\Debug\Examen2_SamanthaLagos.FrmPedidos.resources
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\obj\Debug\Examen2_SamanthaLagos.FrmProducto.resources
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\obj\Debug\Examen2_SamanthaLagos.Frm_Menu.resources
+C:\Users\Usuario\Desktop\Joel Programas Visual\Examen2 Samantha\Examen2_SamanthaLagos\obj\Debug\Examen2_SamanthaLagos.Login.resources
